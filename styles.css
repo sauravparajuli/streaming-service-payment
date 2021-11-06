@@ -117,7 +117,7 @@ body{
     .main-thing{
         border-radius: 20px;
         text-align: center;
-        width: 350px;
+        width: 300px;
         margin: auto;
         margin-top: 60px;
     }
@@ -126,6 +126,9 @@ body{
         width: 85%;
     }
 
+    .first-btn .second-btn{
+        padding: 15px 15px;
+    }
 
 
 
